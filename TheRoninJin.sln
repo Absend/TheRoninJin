@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRoninJin.CSharp.Plugins", "TheRoninJin.CSharp.Plugins.csproj", "{C2313480-5419-6FB6-941C-A3D4B14F65B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRoninJin.CSharp", "TheRoninJin.CSharp.csproj", "{B663FF78-2330-2887-A808-5311F866C937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRoninJin.CSharp.Editor", "TheRoninJin.CSharp.Editor.csproj", "{D8811704-4A47-B96F-91C3-55B3811C0538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2313480-5419-6FB6-941C-A3D4B14F65B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2313480-5419-6FB6-941C-A3D4B14F65B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2313480-5419-6FB6-941C-A3D4B14F65B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2313480-5419-6FB6-941C-A3D4B14F65B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B663FF78-2330-2887-A808-5311F866C937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B663FF78-2330-2887-A808-5311F866C937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B663FF78-2330-2887-A808-5311F866C937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B663FF78-2330-2887-A808-5311F866C937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8811704-4A47-B96F-91C3-55B3811C0538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8811704-4A47-B96F-91C3-55B3811C0538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8811704-4A47-B96F-91C3-55B3811C0538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8811704-4A47-B96F-91C3-55B3811C0538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
