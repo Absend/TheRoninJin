@@ -16,7 +16,7 @@ Platform assembly: C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\M
 Loading C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.098 seconds
+- Completed reload, in  0.121 seconds
 Platform assembly: C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Satanaso\Desktop\TheRoninJin\Beta\TheRoninJin_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
@@ -24,12 +24,22 @@ desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.798252 ms
+UnloadTime: 2.564104 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.550224 ms
+UnloadTime: 0.670532 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.390003 ms (FindLiveObjects: 0.046754 ms CreateObjectMapping: 0.026228 ms MarkObjects: 0.301055 ms  DeleteObjects: 0.014254 ms)
+Total: 0.407109 ms (FindLiveObjects: 0.065000 ms CreateObjectMapping: 0.037061 ms MarkObjects: 0.291362 ms  DeleteObjects: 0.011973 ms)
+
+Unloading the last scene Assets/Scenes/LevelOne.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 127)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.780675 ms
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 238.
+Total: 0.697901 ms (FindLiveObjects: 0.031930 ms CreateObjectMapping: 0.038202 ms MarkObjects: 0.188729 ms  DeleteObjects: 0.437899 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1f44 -> priority: 1 
+  Thread -> id: 1b0c -> priority: 1 
